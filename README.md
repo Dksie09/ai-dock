@@ -22,4 +22,4 @@ npm run dev
 - lucide React
 
 ## License
-MIT
+[MIT](https://github.com/Dksie09/ai-dock/blob/main/LICENSE)
