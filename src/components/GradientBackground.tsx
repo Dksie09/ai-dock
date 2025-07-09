@@ -43,8 +43,7 @@ const DarkBackgroundWrapper: React.FC<DarkBackgroundWrapperProps> = ({
 
   return (
     <div
-      className={`relative w-full min-h-screen overflow-hidden ${className}`}
-      style={{ backgroundColor: "#1A1A1A" }}
+      className={`relative w-full min-h-screen overflow-hidden bg-[#1A1A1A] ${className}`}
     >
       {/* Noise overlay */}
       {noiseURL && (
